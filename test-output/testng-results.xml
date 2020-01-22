@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23906" started-at="2020-01-19T11:36:25Z" finished-at="2020-01-19T11:36:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23906" started-at="2020-01-19T11:36:25Z" finished-at="2020-01-19T11:36:48Z">
+      <class name="com.test.testcases.WelcomeTest">
+        <test-method status="PASS" signature="testSetup(java.lang.String, java.lang.String)[pri:0, instance:com.test.testcases.WelcomeTest@23ceabc1]" name="testSetup" is-config="true" duration-ms="1407" started-at="2020-01-19T06:36:25Z" finished-at="2020-01-19T06:36:26Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method status="PASS" signature="testClassSetup()[pri:0, instance:com.test.testcases.WelcomeTest@23ceabc1]" name="testClassSetup" is-config="true" duration-ms="10947" started-at="2020-01-19T06:36:26Z" finished-at="2020-01-19T06:36:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClassSetup -->
+        <test-method status="PASS" signature="tc001_passionTeaCo()[pri:0, instance:com.test.testcases.WelcomeTest@23ceabc1]" name="tc001_passionTeaCo" duration-ms="438" started-at="2020-01-19T06:36:37Z" finished-at="2020-01-19T06:36:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001_passionTeaCo -->
+        <test-method status="PASS" signature="testMethodSetup()[pri:0, instance:com.test.testcases.WelcomeTest@23ceabc1]" name="testMethodSetup" is-config="true" duration-ms="0" started-at="2020-01-19T06:36:37Z" finished-at="2020-01-19T06:36:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodSetup -->
+        <test-method status="PASS" signature="testMethodTeardown()[pri:0, instance:com.test.testcases.WelcomeTest@23ceabc1]" name="testMethodTeardown" is-config="true" duration-ms="7" started-at="2020-01-19T06:36:37Z" finished-at="2020-01-19T06:36:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodTeardown -->
+        <test-method status="PASS" signature="tc002_navigateLink()[pri:0, instance:com.test.testcases.WelcomeTest@23ceabc1]" name="tc002_navigateLink" duration-ms="675" started-at="2020-01-19T06:36:37Z" finished-at="2020-01-19T06:36:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc002_navigateLink -->
+        <test-method status="PASS" signature="testMethodSetup()[pri:0, instance:com.test.testcases.WelcomeTest@23ceabc1]" name="testMethodSetup" is-config="true" duration-ms="0" started-at="2020-01-19T06:36:37Z" finished-at="2020-01-19T06:36:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodSetup -->
+        <test-method status="PASS" signature="testMethodTeardown()[pri:0, instance:com.test.testcases.WelcomeTest@23ceabc1]" name="testMethodTeardown" is-config="true" duration-ms="10332" started-at="2020-01-19T06:36:38Z" finished-at="2020-01-19T06:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodTeardown -->
+        <test-method status="PASS" signature="testClassTeardown()[pri:0, instance:com.test.testcases.WelcomeTest@23ceabc1]" name="testClassTeardown" is-config="true" duration-ms="0" started-at="2020-01-19T06:36:48Z" finished-at="2020-01-19T06:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClassTeardown -->
+        <test-method status="PASS" signature="testTearDown()[pri:0, instance:com.test.testcases.WelcomeTest@23ceabc1]" name="testTearDown" is-config="true" duration-ms="72" started-at="2020-01-19T06:36:48Z" finished-at="2020-01-19T06:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTearDown -->
+      </class> <!-- com.test.testcases.WelcomeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
